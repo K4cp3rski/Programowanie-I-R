@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b42eaaaa-ce83-40ba-b648-83a078142ac0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Projekt 1/.idea/Projekt 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projekt 1/plot_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projekt 1/projekt_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projekt 1/projekt_1_backup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Projekt 1/test.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/.idea/Ćwiczenia 13.04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/cw13.04.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 13.04/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/.idea/Ćwiczenia 20.04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/Zadania 20.04.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/zad2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 20.04/zad3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/.idea/Ćwiczenia 27.04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/cw1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 27.04/cw2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Ćwiczenia 30.03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 5.05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 5.05/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 5.05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 5.05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 5.05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 5.05/.idea/Ćwiczenia 5.05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ćwiczenia 5.05/zad1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/klucze.txt" beforeDir="false" afterPath="$PROJECT_DIR$/klucze.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodowanie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/kodowanie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odkodowane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/odkodowane.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zakodowane.txt" beforeDir="false" afterPath="$PROJECT_DIR$/zakodowane.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kacper Cybinski" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qUFFFOke0IalZtAJ3VSNRSLCus" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../Programowanie-I-R" />
+      <recent name="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.zad4 (1)">
+    <configuration name="pavel_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ćwiczenia 30.03" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03/pavel_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ćwiczenia 30.03" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03/zad2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ćwiczenia 30.03" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03/zad3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad4 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ćwiczenia 30.03" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zad4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="zad4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Ćwiczenia 30.03" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Programowanie-I-R/Ćwiczenia 30.03/zad4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.zad4 (1)" />
+        <item itemvalue="Python.zad4" />
+        <item itemvalue="Python.zad3" />
+        <item itemvalue="Python.pavel_3" />
+        <item itemvalue="Python.zad2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b42eaaaa-ce83-40ba-b648-83a078142ac0" name="Default Changelist" comment="" />
+      <created>1617126155838</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617126155838</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Ćwiczenia 30.03 Rozwiazane zadania">
+      <created>1617150036610</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617150036610</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ćwiczenia 30.03 Rozwiazane zadania" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ćwiczenia 30.03 Rozwiazane zadania" />
+  </component>
+</project>
